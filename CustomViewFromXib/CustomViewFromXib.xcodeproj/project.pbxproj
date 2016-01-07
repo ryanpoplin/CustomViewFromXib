@@ -83,8 +83,6 @@
 		BD79BC581A38E84F006E45A3 /* CustomViewFromXib */ = {
 			isa = PBXGroup;
 			children = (
-				BD79BC5B1A38E84F006E45A3 /* AppDelegate.swift */,
-				BD79BC5D1A38E84F006E45A3 /* ViewController.swift */,
 				BD79BC5F1A38E84F006E45A3 /* Main.storyboard */,
 				BD79BC7B1A38E894006E45A3 /* CustomView.xib */,
 				BD79BC7D1A38F309006E45A3 /* CustomView.swift */,
@@ -99,6 +97,8 @@
 		BD79BC591A38E84F006E45A3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BD79BC5B1A38E84F006E45A3 /* AppDelegate.swift */,
+				BD79BC5D1A38E84F006E45A3 /* ViewController.swift */,
 				BD79BC5A1A38E84F006E45A3 /* Info.plist */,
 			);
 			name = "Supporting Files";
